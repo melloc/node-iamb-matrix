@@ -1,0 +1,16 @@
+/*account.json
+/*debug.log
+/*.json
+/*.js
+/*.out
+/*.tgz
+/.gitmodules
+/.npmignore
+/Makefile
+/coverage
+/deps
+/docs
+/etc
+/src
+/test
+/tools

@@ -1,0 +1,36 @@
+{
+  "name": "iamb-matrix",
+  "version": "0.0.1",
+  "description": "Matrix client library for iamb",
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/melloc/node-iamb-matrix.git"
+  },
+  "author": "Cody Mello <melloc@writev.io>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/melloc/node-iamb-matrix/issues"
+  },
+  "keywords": [
+    "iamb",
+    "matrix"
+  ],
+  "dependencies": {
+    "assert-plus": "^1.0.0",
+    "jsprim": "^1.4.1",
+    "mooremachine": "^2.2.1",
+    "restify-clients": "1.6.0",
+    "taiga": "0.0.1",
+    "verror": "^1.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^2.10.0",
+    "eslint-plugin-joyent": "~1.1.0",
+    "istanbul": "^0.3.17"
+  }
+}
